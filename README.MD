@@ -7,7 +7,7 @@ Jira, Gase.io, SQL, Postman, Swager, Trello, SoapUI,Ghrome Devtools
 ## Проекты
 Проект 1. Тест веб приложений для учителей от Skyeng
 Что нужно было сделать:
-1. Тест план
+1. Тест план (https://agmpro.atlassian.net/l/cp/vgsuAcap)
 1. Подготовить тестовую документацию
 1. Провести тестирование
 1. Написать отчет о результатах
